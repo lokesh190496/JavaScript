@@ -84,24 +84,79 @@
 // console.log(marks)
 
 
-let num1 =5
+// let num1 =5
 
-num1 = num1 + 1
-console.log(num1)   //6
+// num1 = num1 + 1
+// console.log(num1)   //6
 
-num1 = num1 - 1
-console.log(num1)  //5
+// num1 = num1 - 1
+// console.log(num1)  //5
 
-num1 = num1 * 2
-console.log(num1)  //10
+// num1 = num1 * 2
+// console.log(num1)  //10
 
-num1 = num1 / 1
-console.log(num1) //5
+// num1 = num1 / 1
+// console.log(num1) //5
 
-num1 = num1 % 2
-console.log(num1) //1
+// num1 = num1 % 2
+// console.log(num1) //1
 
-num1 = num1 ** 2
-console.log(num1) //1
+// num1 = num1 ** 2
+// console.log(num1) //1
 
 
+// let num1 = 20
+// num1 = num1+1
+// console.log(num1)
+
+
+// let num1 = 20
+// num1 = num1 - 1
+// console.log(num1)
+
+
+// pre-increment
+// let num1 = 20
+// ++num1
+// console.log(num1)
+
+
+//pre-decrement
+// let num1 = 20
+// --num1
+// console.log(num1)
+
+
+// post-increment
+// let num1 = 20
+// num1++
+// console.log(num1++)
+// console.log(num1)
+
+
+// post-increment
+// let num1 = 20
+// num1--
+// console.log(num1--)
+// console.log(num1)
+
+
+// post-increment
+// let num1 = 20
+// console.log(num1++)
+// console.log(num1)
+
+
+// comma operator
+// let x = (3,5,7)
+// console.log(x)
+
+
+// let i = 2
+// let j =3
+// let result = (i++, j--)
+// console.log(i,j, result)
+
+
+// console.log(0.1+0.1)
+// console.log((0.1+0.2).toFixed(2))
